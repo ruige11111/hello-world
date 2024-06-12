@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production阿城
+### Compiles and minifies for production阿城阿萨德
 ```
 npm run build
 ```
